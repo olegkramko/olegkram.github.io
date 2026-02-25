@@ -1,5 +1,5 @@
 # olegkram.github.io
-CV Landing Page
+CV Landing Page with animation
 
 # Tech Stack
 * HTML
